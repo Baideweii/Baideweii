@@ -60,15 +60,6 @@
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
-
-</td></tr></table>  
-
 <br/>  
 
 ## Connect with me  
