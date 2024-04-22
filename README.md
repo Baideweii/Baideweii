@@ -6,7 +6,7 @@
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
 
-- 🔭 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
+- 🔭
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
@@ -123,7 +123,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
 </div>  
   
 
