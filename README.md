@@ -111,11 +111,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
+## Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
 <br/>  
 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
@@ -123,7 +120,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <br/>  
 
 <div align="center">
-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
+
 </div>  
   
 
