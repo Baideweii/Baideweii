@@ -1,16 +1,18 @@
 <div align="center">
 </div>  
   
-### <div align="center"> 🚀 Hola, soy Gerant Seminario, un desarrollador web full stack 🚀</div>  
+### <div align="center"> 🚀 Hola, mi nombre es Gerant Seminario 🚀</div>  
+## 
+btw, también conocido como Baideweii 😉 en GitHub 
 
-- 🔭
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to MERN stack and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
+## ¿Quien soy?
+Soy un Programador Full Stack orientado al Back End.
 
-<br/>  
+Me considero una persona orientada a resultados, que siempre está en búsqueda de conocimientos y experiencias desafiantes.
 
-## My Skill Set  
+Me encanta hacer cosas útiles y divertidas con la programación, escuchar diferentes tipos de música, compartir con amigos y mucho más.
+
+## Skills 
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
@@ -31,7 +33,7 @@
 
 <br/>  
 
-## Connect with me  
+## Contáctame 👇 
 <div align="center">
 <a href="https://github.com/Baideweii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
