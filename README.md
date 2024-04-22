@@ -33,6 +33,16 @@ Me encanta hacer cosas útiles y divertidas con la programación, escuchar difer
 
 <br/>  
 
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Baideweii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Spotify 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
+<br/> 
+
 ## Contáctame 👇 
 <div align="center">
 <a href="https://github.com/Baideweii" target="_blank">
@@ -42,17 +52,5 @@ Me encanta hacer cosas útiles y divertidas con la programación, escuchar difer
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>  
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Baideweii&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
-<br/>  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
