@@ -1,16 +1,19 @@
 <div align="center">
 </div>  
   
-### <div align="center"> 🚀 Hola, mi nombre es Gerant Seminario 🚀</div>  
-## 
-btw, también conocido como Baideweii 😉 en GitHub 
+### <div align="center"> Hi there, I'm Gerant 👋 </div>  
 
-## ¿Quien soy?
-Soy un Programador Full Stack orientado al Back End.
+I'm a Software Engineer focused on building scalable, multi-platform applications. I bridge the gap between web technologies and hardware-constrained environments like Smart TVs and IoT devices.
 
-Me considero una persona orientada a resultados, que siempre está en búsqueda de conocimientos y experiencias desafiantes.
+📺 Currently working on: Smart TV app architectures (WebOS & Tizen).
 
-Me encanta hacer cosas útiles y divertidas con la programación, escuchar diferentes tipos de música, compartir con amigos y mucho más.
+📡 Tech Stack: React, React Native, Node.js, MQTT, Android SDK.
+
+🌍 Languages: Spanish (Native), English (C1 Advanced).
+
+
+🛠️ Technical Portfolio
+My most recent commercial projects for Smart TV and IoT are stored in private repositories.
 
 ## Skills 
 <table><tr><td valign="top" width="100%">
@@ -39,11 +42,7 @@ Me encanta hacer cosas útiles y divertidas con la programación, escuchar difer
 <br/>  
 
 
-## Spotify 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=qxurcl6pizo4dz0rby0dnxrkn&redirect=true)
-<br/> 
-
-## Contáctame 👇 
+## Socials 👇 
 <div align="center">
 <a href="https://github.com/Baideweii" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
